@@ -1,0 +1,8 @@
+1. Name an IDE you are currently using, state the reason why you are using it and what features does this IDE have that you can share to everyone?
+
+I'm currently using Dev C++
+
+The features that Dev C++ have that I want to share to everyone is that: 
+1. It comes with customizable syntax highlighting editor that can make the source code more readable.
+2. It has a localization feature that provides support for multiple languages. We can select the language the first time when we open the IDE after installing it. We can also change the language anytime using settings.
+3. Like the other IDEs, this IDE also provides the “Auto-Completion” feature for the code we write.
